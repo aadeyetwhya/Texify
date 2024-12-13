@@ -1,0 +1,26 @@
+
+*{
+    margin:0;
+    padding:0;
+}
+.navBar{
+    background-color: black;
+    color:white;
+    display:flex;
+    justify-content:space-between;
+    height:50px;
+    align-items:center;
+    padding:0 20px 0 20px
+}
+.leftSection{
+    display:flex;
+    align-items: center;
+
+}
+.title{
+    padding:0 20px 0 0;
+    font-size: 35px;
+}
+.home{
+    padding:0 20px 0 20px;
+}
